@@ -17,6 +17,9 @@ chmod +x installer_1.sh installer_2.sh proton_dependencies.sh proton_g_init.sh p
 
 **Step 2:**
 
+WARNING: May break desktop due to package changes, I reinstall ubuntu-desktop afterwards (lazy of me). (I only use this on fresh installs) 
+(If you want you can see which packages I quick included cause this and remove them from the installers)
+
 ./installer_1.sh
 ./installer_2.sh
 
