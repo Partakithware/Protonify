@@ -44,7 +44,10 @@ WARNING 2: Depending on what you run and how you exit, it will not close protons
 Enjoy.
 
 
-Extended Description, AI Generated (Gemini), take that those that hate AI idc and included this part, this way, on purpose.
+
+**Extended Description:**
+
+AI Generated (Gemini), take that those that hate AI idc and included this part, this way, on purpose.
 
 The provided Bash scripts are designed to set up and configure Proton for running Windows applications on a Linux system. They automate the process of installing necessary dependencies, downloading and extracting the Proton core, and integrating Proton with the desktop environment for easy execution of Windows files. These scripts appear to be part of a project named "Protonify," likely hosted on GitHub, which aims to simplify the use of Proton.
 
