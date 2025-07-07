@@ -46,6 +46,8 @@ chmod +x "$desktop_file"
 # Make the wrapper script executable
 chmod +x "/home/$username/Proton/wrapperinit.sh"
 
+mkdir -p "/home/$username/Windows/"
+
 # Update the desktop database
 echo "Updating desktop database..."
 update-desktop-database ~/.local/share/applications/
