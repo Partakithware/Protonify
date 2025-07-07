@@ -5,6 +5,9 @@ USE AT YOUR OWN RISK.
 
 Installation: Intended and tested on Ubuntu 24.04 LTS. (Proton 9.4 squashed)
 
+**Step 0:**
+Download source/all .sh to one folder.
+
 **Step 1:**
 
 First ensure all files are able to be executed.
